@@ -1,6 +1,6 @@
 # Integrated Predictive Workspace Theory (IPWT)
 
-Read the full manuscript: [English](IPWT_en.md) | [简体中文](.IPWT.md)
+Read the full manuscript: [English](IPWT_en.md) | [简体中文](IPWT.md)
 
 ## What is IPWT?
 
@@ -10,7 +10,7 @@ The Integrated Predictive Workspace Theory (IPWT) is a unified framework for the
 
 - **June 5, 2025**: IPWT proposed.
 - **June 7, 2025**: Formalization completed.
-- **June 8, 2025**: Manuscript moved to this standalone repository; PyPoPI development initiated.
+- **June 8, 2025**: Manuscript moved to this standalone repository; PI-Predictor development initiated.
 
 For technical applications and sociological unit tests of this research, please refer to [Chain://](https://github.com/dmf-archive/dmf-archive.github.io/).
 
