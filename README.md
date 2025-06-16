@@ -1,6 +1,8 @@
 # Integrated Predictive Workspace Theory (IPWT)
 
-Read the full manuscript: [English](IPWT_en.md) | [简体中文](IPWT.md)
+**Academic Preprint：**[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15676305.svg)](https://doi.org/10.5281/zenodo.15676305)
+
+**In-World Manuscript：** [English](IPWT_en.md) | [简体中文](IPWT.md)
 
 ## What is IPWT?
 
@@ -18,6 +20,21 @@ IPWT is designed to offer a computationally feasible and clinically robust model
 - **June 15, 2025**: Refined language and enhanced Φ integration.
 
 For technical applications and sociological unit tests of this research, please refer to [Chain://](https://github.com/dmf-archive/dmf-archive.github.io/).
+
+## Citation
+
+If you wish to cite this work, please use the following BibTeX entry:
+
+```bibtex
+@misc{ipwt2025,
+  author       = {Rui, L.},
+  title        = {{Integrated Predictive Workspace Theory: Towards a Unified Framework for the Science of Consciousness}},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15676305},
+  url          = {https://doi.org/10.5281/zenodo.15676305}
+}
+```
 
 ## License
 
