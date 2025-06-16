@@ -1,6 +1,6 @@
 # Integrated Predictive Workspace Theory (IPWT)
 
-**Academic Preprint：**[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15676305.svg)](https://doi.org/10.5281/zenodo.15676305)
+**Academic Preprint：**[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15676304.svg)](https://doi.org/10.5281/zenodo.15676304)
 
 **In-World Manuscript：** [English](IPWT_en.md) | [简体中文](IPWT.md)
 

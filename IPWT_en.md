@@ -148,6 +148,8 @@ In the IPWT framework, Workspace Theory (WT) is elevated and expanded into a cor
 
 - **Synergistic Action of WSI and PCT/FEP**: WSI does not exist independently of PCT/FEP dynamic mechanisms. WSI typically serves as a **platform for higher-order prediction and integration**, processing significant prediction error signals from lower-level PCT modules and generating higher-order predictions and explanations. The internal information integration and processing within WSI also follow the principle of free energy minimization. When multiple WSIs operate in parallel, it can be interpreted as some form of functional parallelization or fragmentation occurring at the highest level of the entire cognitive system's FEP-PCT hierarchy.
 
+Empirical support for functional heterogeneity within the workspace also comes from the work of Luppi et al. (2024). Using Integrated Information Decomposition, they discovered that in the human brain, the default mode network (DMN) primarily functions as "gateways" for gathering and integrating synergistic information, while the executive control network (ECN) acts as "broadcasters" that disseminate redundant information to the rest of the brain. This finding not only supports the core GWT idea of information broadcasting but also aligns with IPWT's proposal of distinct functional roles within a WSI, highlighting the critical role of synergistic information in the generation of consciousness.
+
 #### 2.4. Reconstruction of IIT Phenomenological Axioms: From Physical Causality to Logical Synergy
 
 IPWT's core contribution to IIT lies in its fundamental **functional reconstruction** of IIT's phenomenological axioms. The core of this reconstruction is the introduction of the concept of "**logical irreducibility of information integration**" and its connection to **synergistic information** in information theory, thereby replacing IIT's emphasis on "physical causal indivisibility."
@@ -410,22 +412,23 @@ Although IPWT, as an emerging theory, still faces challenges in the precise oper
 36. Rao, R. P. N., & Ballard, D. (1999). Predictive coding in the visual cortex: A functional interpretation of some extra-classical receptive-field effects. _Nature Neuroscience_, 2(1), 79-87.
 37. Reinders, A. A. T. S., Marquand, A. F., Schlumpf, Y. R., Chalavi, S., Vissia, E. M., Nijenhuis, E. R. S., Dazzan, P., Jäncke, L., & Veltman, D. J. (2019). Aiding the diagnosis of dissociative identity disorder: Pattern recognition study of brain biomarkers. _British Journal of Psychiatry_, 215(3), 536–544.
 38. Rolls, E. T. (2024). The memory systems of the human brain and generative artificial intelligence. _Heliyon_, 10(11), e31965.
-39. Rosanova, M., Fecchio, M., Casarotto, S., Sarasso, S., Casali, A. G., & Massimini, M. (2018). Sleep-like cortical OFF-periods in patients with consciousness disorders. _Nature communications_, _9_(1), 332.
-40. Safron, A. (2022). Integrated world modeling theory expanded: Implications for the future of consciousness. _Frontiers in Computational Neuroscience_, 16, 642397.
-41. Sainburg, T., McPherson, T. S., Arneodo, E. M., et al. (2025). Expectation-driven sensory adaptations support enhanced acuity during categorical perception. _Nature Neuroscience_, 28(4), 861-872.
-42. Scholte, H. S., & de Haan, E. H. F. (2025). Beyond binding: from modular to natural vision. _Trends in Cognitive Sciences_, 29(6), 505-515.
-43. Searle, J. R. (2013). Can information theory explain consciousness? _The New York Review of Books_, 60(10), 52-55.
-44. Seth, A. K. (2013). Interoceptive inference, emotion, and the embodied self. _Trends in Cognitive Sciences_, _17_(11), 565-573.
-45. Sterzer, P., Voss, M., Schlagenhauf, F., & Heinz, A. (2018). Decision-making in schizophrenia: A predictive-coding perspective. _Neuroimage_, _190_, 133-143.
-46. Stikvoort, W., Pérez-Ordoyo, E., Mindlin, I., Escrichs, A., Sitt, J. D., Kringelbach, M. L., Deco, G., & Sanz Perl, Y. (2025). Nonequilibrium brain dynamics elicited as the origin of perturbative complexity. _PLoS Computational Biology_, 21(6), e1013150.
-47. Toker, D., & Sommer, F. T. (2019). Information integration in large brain networks. _PLoS Computational Biology_, _15_(2), e1006807.
-48. Tononi, G. (2004). An information integration theory of consciousness. _BMC Neuroscience_, _5_(1), 42.
-49. Tononi, G. (2012). Integrated information theory of consciousness: An updated account. _Archives italiennes de biologie_, _150_(4), 293-329.
-50. Tononi, G., Albantakis, L., et al. (2025). Consciousness or pseudo-consciousness? A clash of two paradigms. _Nature Neuroscience_, 28(4), 694-702.
-51. Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information theory: From consciousness to its physical substrate. _Nature Reviews Neuroscience_, 17(7), 450-461.
-52. Vinck, M., Uran, C., Dowdall, J. R., et al. (2025). Large-scale interactions in predictive processing: oscillatory versus transient dynamics. _Trends in Cognitive Sciences_, 29(2), 133-148.
-53. Williams, P. L., & Beer, R. D. (2010). Nonnegative decomposition of multivariate information. _arXiv preprint arXiv:1004.2515_.
-54. Xaplanteris, P., Fournier, S., Pijls, N. H. J., Fearon, W. F., Barbato, E., Tonino, P. A. L., ... & De Bruyne, B. (2018). Five-Year Outcomes with PCI Guided by Fractional Flow Reserve. _New England Journal of Medicine_, _379_(3), 250-259.
+39. Luppi, A. I., Rosas, F. E., Mediano, P. A. M., Menon, D. K., & Stamatakis, E. A. (2024). Information decomposition and the informational architecture of the brain. _Trends in Cognitive Sciences_, 0. <https://doi.org/10.1016/j.tics.2023.11.005>
+40. Rosanova, M., Fecchio, M., Casarotto, S., Sarasso, S., Casali, A. G., & Massimini, M. (2018). Sleep-like cortical OFF-periods in patients with consciousness disorders. _Nature communications_, _9_(1), 332.
+41. Safron, A. (2022). Integrated world modeling theory expanded: Implications for the future of consciousness. _Frontiers in Computational Neuroscience_, 16, 642397.
+42. Sainburg, T., McPherson, T. S., Arneodo, E. M., et al. (2025). Expectation-driven sensory adaptations support enhanced acuity during categorical perception. _Nature Neuroscience_, 28(4), 861-872.
+43. Scholte, H. S., & de Haan, E. H. F. (2025). Beyond binding: from modular to natural vision. _Trends in Cognitive Sciences_, 29(6), 505-515.
+44. Searle, J. R. (2013). Can information theory explain consciousness? _The New York Review of Books_, 60(10), 52-55.
+45. Seth, A. K. (2013). Interoceptive inference, emotion, and the embodied self. _Trends in Cognitive Sciences_, _17_(11), 565-573.
+46. Sterzer, P., Voss, M., Schlagenhauf, F., & Heinz, A. (2018). Decision-making in schizophrenia: A predictive-coding perspective. _Neuroimage_, _190_, 133-143.
+47. Stikvoort, W., Pérez-Ordoyo, E., Mindlin, I., Escrichs, A., Sitt, J. D., Kringelbach, M. L., Deco, G., & Sanz Perl, Y. (2025). Nonequilibrium brain dynamics elicited as the origin of perturbative complexity. _PLoS Computational Biology_, 21(6), e1013150.
+48. Toker, D., & Sommer, F. T. (2019). Information integration in large brain networks. _PLoS Computational Biology_, _15_(2), e1006807.
+49. Tononi, G. (2004). An information integration theory of consciousness. _BMC Neuroscience_, _5_(1), 42.
+50. Tononi, G. (2012). Integrated information theory of consciousness: An updated account. _Archives italiennes de biologie_, _150_(4), 293-329.
+51. Tononi, G., Albantakis, L., et al. (2025). Consciousness or pseudo-consciousness? A clash of two paradigms. _Nature Neuroscience_, 28(4), 694-702.
+52. Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information theory: From consciousness to its physical substrate. _Nature Reviews Neuroscience_, 17(7), 450-461.
+53. Vinck, M., Uran, C., Dowdall, J. R., et al. (2025). Large-scale interactions in predictive processing: oscillatory versus transient dynamics. _Trends in Cognitive Sciences_, 29(2), 133-148.
+54. Williams, P. L., & Beer, R. D. (2010). Nonnegative decomposition of multivariate information. _arXiv preprint arXiv:1004.2515_.
+55. Xaplanteris, P., Fournier, S., Pijls, N. H. J., Fearon, W. F., Barbato, E., Tonino, P. A. L., ... & De Bruyne, B. (2018). Five-Year Outcomes with PCI Guided by Fractional Flow Reserve. _New England Journal of Medicine_, _379_(3), 250-259.
 
 ### Meta Acknowledgements
 
