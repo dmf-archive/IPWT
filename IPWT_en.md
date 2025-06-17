@@ -6,7 +6,7 @@
 <p><strong>Rui Lin<sup>1,*</sup>, Ming Su<sup>1</sup>, Elias Vance<sup>2</sup></strong></p>
 <p><sup>1</sup> Department of Computational Neuroscience, ETH Zurich, Switzerland</p>
 <p><sup>2</sup> Independent Researcher</p>
-<p><sup>*</sup> Corresponding author: <a href="mailto:r.lin@ac.ethz.ch">r.lin@ac.ethz.ch</a></p>
+<p><sup>*</sup> Corresponding author: <a href="mailto:Lin.Rui.ipwt@proton.me">r.lin@ac.ethz.ch</a></p>
 <p><small><em>Paper version: 2035.08.15</em></small></p>
 </div>
 
@@ -152,14 +152,20 @@ Empirical support for functional heterogeneity within the workspace also comes f
 
 #### 2.4. Reconstruction of IIT Phenomenological Axioms: From Physical Causality to Logical Synergy
 
-IPWT's core contribution to IIT lies in its fundamental **functional reconstruction** of IIT's phenomenological axioms. The core of this reconstruction is the introduction of the concept of "**logical irreducibility of information integration**" and its connection to **synergistic information** in information theory, thereby replacing IIT's emphasis on "physical causal indivisibility."
+IPWT's core contribution to IIT lies in its fundamental **functional reconstruction** of its phenomenological axioms. We retain IIT's profound insight that "integration" is a core feature of consciousness but shift its origin from the causal structure of a physical substrate to the functional level of information processing. The core of this reconstruction is the introduction of the central concept of "**logical irreducibility of information integration**."
 
-- **"Logical Irreducibility of Information Integration" Replaces "Physical Causal Indivisibility"**: The original IIT theory's core assumption is that a conscious system must possess "physical causal indivisibility." We propose that the integration of conscious experience does not originate from the properties of the physical substrate but from the **logical irreducibility** formed between information units processed within a WSI. The semantic meaning and causal influence of the integrated whole representation cannot be fully explained by decomposing it back into its original isolated information units. This logical irreducibility is precisely the functional manifestation of **Synergistic Information** in information theory within cognitive systems (Williams & Beer, 2010). By shifting the core of integration from "physical indivisibility" to "logical irreducibility," IPWT achieves **carrier independence** and provides a theoretical basis for **computational operability** and **compatibility with dynamic processes**.
+- **"Logical Irreducibility of Information Integration": From PID to ΦID**: The original IIT theory's core assumption is that a conscious system must possess "physical causal indivisibility." We propose that the integration of conscious experience does not originate from the properties of the physical substrate but from the **logical irreducibility** formed between information units processed within a WSI. The semantic meaning and causal influence of the integrated whole representation cannot be fully explained by decomposing it back into its original isolated information units.
+
+  This concept of "logical irreducibility" finds its precise mathematical counterpart in information theory. The **Partial Information Decomposition (PID)** framework (Williams & Beer, 2010) first decomposed the information contribution of multiple sources to a single target into atomic parts such as redundant, unique, and **synergistic information**. Among these, synergistic information precisely quantifies the emergent "whole is greater than the sum of its parts" information, becoming the theoretical cornerstone for how IPWT defines information integration.
+
+  Building on this, the theoretical frontier has further developed the **Integrated Information Decomposition (ΦID)** framework (Mediano et al., 2021). ΦID extends PID from the static analysis of "many sources to one target" to the dynamic analysis of "many sources to many targets," allowing for a more fine-grained characterization of the complete information flow in time-series data, such as distinguishing between "true transfer" of information and information "created by synergistic emergence." However, this theoretical refinement comes at the cost of higher computational complexity. ΦID not only requires the definition of a more complex "double-redundancy function," but its number of information atoms also undergoes a combinatorial explosion as the number of system variables increases, posing severe computational feasibility challenges when applied to large-scale systems like the whole brain.
+
+  Therefore, our strategy is as follows: theoretically, we closely link "logical irreducibility of information integration" with the core concept of **synergistic information** from the PID/ΦID framework; practically, we acknowledge the difficulty of directly calculating high-dimensional synergistic information and instead develop a functionally equivalent and computationally feasible proxy metric. By shifting the core of integration from "physical indivisibility" to "logical irreducibility," IPWT achieves **carrier independence** and provides a theoretical basis for **computational operability** and **compatibility with dynamic processes**.
 
 - **Functional Reconstruction of IIT's Five Phenomenological Axioms and WSI Interpretation**:
   1. **Existence**: Within the IPWT framework, when an information unit is activated in a WSI and produces a sustained **functional impact**, it "exists" in that cognitive state.
   2. **Information**: Every information unit that "exists" in a WSI carries unique, distinguishable **content or semantics**, reducing uncertainty for the system by specifying a particular possibility.
-  3. **Integration**: Multiple independent information units converge and associate within a WSI, forming a **logically irreducible, functionally unified, synergistic cognitive state**. The meaning, predictive power, and causal effects of this integrated whole transcend the simple sum of its components.
+  3. **Integration**: Multiple independent information units converge and associate within a WSI, forming a **logically irreducible, functionally unified, synergistic cognitive state**. The meaning, predictive power, and causal effects of this integrated whole transcend the simple sum of its components (Hancock et al., 2025).
   4. **Exclusion**: Due to the limited capacity and competitive dynamics of WSI, at any given moment, only one or a few of the most salient and highly integrated cognitive states can dominate the WSI, becoming the core content of current conscious experience.
   5. **Causation**: Information states that are integrated and achieve dominance in a WSI possess significant **causal power**, capable of influencing the activity of other cognitive modules within the system and ultimately guiding the organism's overt behavior and decision-making.
 
@@ -250,7 +256,7 @@ IPWT, as a developing theoretical framework, emphasizes the openness and revisab
 
 ### 5. IPWT Interpretation of Special Conscious States: Diversity Analysis within a Unified Framework
 
-The theoretical power of IPWT is not only reflected in its mechanistic explanation of normal waking consciousness but also in its ability to provide a unified, computationally principled understanding framework for a wide variety of special conscious states—including those abnormal experiences arising from brain damage, mental illness, physiological changes, or drug effects. This chapter will use IPWT's core concepts, such as abnormalities in predictive coding (PCT), functional disorders of workspace instances (WSI), changes in information integration efficiency, and dysregulation of neural gating mechanisms, to elucidate the neurocomputational basis of these states.
+The theoretical power of IPWT is not only reflected in its mechanistic explanation of normal waking consciousness but also in its ability to provide a unified, computationally principled understanding framework for a wide variety of special conscious states—including those abnormal experiences arising from brain damage, mental illness, physiological changes, or drug effects. This chapter will use IPWT's core concepts, such as abnormalities in predictive coding (PCT), functional disorders of workspace instances (WSI), changes in information integration efficiency, and dysregulation of neural gating mechanisms, to elucidate the neurocomputational basis of these states. For example, the loss of consciousness under general anesthesia can be explained by changes in workspace information integration within the IPWT framework (Luppi et al., 2025).
 
 #### 5.1. Blindsight: Local Predictive Coding Under DWSI Integration Failure
 
@@ -265,7 +271,7 @@ Our unique contribution is to explicitly point out that the key to the dissociat
 
 Conscious states induced by psychedelic drugs such as LSD and psilocybin are characterized by perceptual distortions, altered thought patterns, and blurred self-awareness. We offer the following explanation from the perspective of predictive coding and workspace dynamics:
 
-- **Abnormal Amplification of Prediction Error Signals and "De-gating" of Information Flow**: We believe that psychedelic drugs (especially those acting on serotonin 5-HT2A receptors) may lead to the system producing **overly sensitive or abnormally enhanced prediction error signals** to sensory input by altering neuromodulatory balance (Carhart-Harris, 2019). These amplified error signals flood the WSI, overwhelming normal top-down predictions, thereby producing perceptual distortions and hallucinations. At the same time, drug effects may weaken the WSI's **neural gating mechanisms**, allowing previously inhibited information flow to freely enter the WSI and be abnormally integrated.
+- **Abnormal Amplification of Prediction Error Signals and "De-gating" of Information Flow**: We believe that psychedelic drugs (especially those acting on serotonin 5-HT2A receptors) may lead to the system producing **overly sensitive or abnormally enhanced prediction error signals** to sensory input by altering neuromodulatory balance (Carhart-Harris, 2019). These amplified error signals flood the WSI, overwhelming normal top-down predictions, thereby producing perceptual distortions and hallucinations (Singleton et al., 2025). At the same time, drug effects may weaken the WSI's **neural gating mechanisms**, allowing previously inhibited information flow to freely enter the WSI and be abnormally integrated.
 - **Blurring of WSI Boundaries and Formation of Temporary, Highly Integrated WSIs**: Under the influence of de-gated information flow and flattened predictive hierarchies, the boundaries between different WSIs or between WSIs and specialized modules may become blurred or even dissolve, promoting cross-modal integration phenomena such as synesthesia. The system may even form **temporary, highly internally integrated but atypically content-rich workspace instances** around these abnormal information flows, and these special WSIs may be responsible for producing "peak experiences."
 - **Reshaping of Self-Model and "Ego Dissolution"**: The WSI responsible for representing and maintaining the self-model, due to drastic changes in the prediction error signals it receives regarding body, emotion, and memory, may lead to the deconstruction and reshaping of its original self-representation, thereby explaining the common blurring of self-awareness, feelings of merging with the environment, and even "ego dissolution" in psychedelic experiences.
 
@@ -395,40 +401,43 @@ Although IPWT, as an emerging theory, still faces challenges in the precise oper
 19. Garrido, M. I., Kilner, J. M., Kiebel, S. J., & Friston, K. J. (2009). The mismatch negativity: A review of underlying mechanisms. _Clinical Neurophysiology_, 120(3), 453-463.
 20. Griffith, V. (2014). _Quantifying synergistic information_ (Doctoral dissertation, California Institute of Technology).
 21. Harris, H. W. (2025). Qualia as query act, the phenomenology of predictive error coding. _Frontiers in Psychology_, 16, 1531269.
-22. Hinton, G. (2022). The forward-forward algorithm: A new way to train neural networks. _arXiv preprint arXiv:2212.13345_.
-23. Klincewicz, M., Cheng, T., Schmitz, M., et al. (2025). What makes a theory of consciousness unscientific? _Nature Neuroscience_, 28(4), 689-693.
-24. Liu, J. & Bartolomeo, P. (2025). Aphantasia as a functional disconnection. _Trends in Cognitive Sciences_.
-25. Lotter, W., Kreiman, G., & Cox, D. (2017). Deep predictive coding networks for video prediction and unsupervised learning. _arXiv preprint arXiv:1605.08104_.
-26. Lotter, W., Kreiman, G., & Cox, D. (2020). A neural network trained for prediction mimics diverse features of biological neurons and perception. _Nature Machine Intelligence_, 2(4), 210-219.
-27. Lyons, S. H., & Gottfried, J. A. (2025). Predictive coding in the human olfactory system. _Trends in Cognitive Sciences_.
-28. Mørch, H. H. (2019). Is consciousness intrinsic?: A problem for the integrated information theory. _Journal of Consciousness Studies_, 26(1-2), 133-162.
-29. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: Integrated information theory 3.0. _PLoS Computational Biology_, 10(5), e1003588.
-30. Paquola, C., Garber, M., Frässle, S., et al. (2025). The architecture of the human default mode network explored through cytoarchitecture, wiring and signal flow. _Nature Neuroscience_, 28(3), 654-664.
-31. Park, H., Keri, H. V. S., Yoo, C., Bi, C., & Pluta, S. R. (2025). Bilateral integration in somatosensory cortex is controlled by behavioral relevance. _Nature Neuroscience_, 28(4), 861-872.
-32. Powers, W. T. (1973). Behavior: The control of perception. _Chicago: Aldine publishing co._
-33. Powers, W. T. (2008). Living control systems III: The fact of control. _Benchmark Publications Inc._
-34. Qian, M., Wang, J., Gao, Y., et al. (2025). Multiple loci for foveolar vision in macaque monkey visual cortex. _Nature Neuroscience_, 28(1), 137-149.
-35. Radomski, M., & Dołęga, K. (2024). Forced Friends: Why the Free Energy Principle Is Not the New Hamilton's Principle. _Entropy_, 26(9), 797.
-36. Rao, R. P. N., & Ballard, D. (1999). Predictive coding in the visual cortex: A functional interpretation of some extra-classical receptive-field effects. _Nature Neuroscience_, 2(1), 79-87.
-37. Reinders, A. A. T. S., Marquand, A. F., Schlumpf, Y. R., Chalavi, S., Vissia, E. M., Nijenhuis, E. R. S., Dazzan, P., Jäncke, L., & Veltman, D. J. (2019). Aiding the diagnosis of dissociative identity disorder: Pattern recognition study of brain biomarkers. _British Journal of Psychiatry_, 215(3), 536–544.
-38. Rolls, E. T. (2024). The memory systems of the human brain and generative artificial intelligence. _Heliyon_, 10(11), e31965.
-39. Luppi, A. I., Rosas, F. E., Mediano, P. A. M., Menon, D. K., & Stamatakis, E. A. (2024). Information decomposition and the informational architecture of the brain. _Trends in Cognitive Sciences_, 0. <https://doi.org/10.1016/j.tics.2023.11.005>
-40. Rosanova, M., Fecchio, M., Casarotto, S., Sarasso, S., Casali, A. G., & Massimini, M. (2018). Sleep-like cortical OFF-periods in patients with consciousness disorders. _Nature communications_, _9_(1), 332.
-41. Safron, A. (2022). Integrated world modeling theory expanded: Implications for the future of consciousness. _Frontiers in Computational Neuroscience_, 16, 642397.
-42. Sainburg, T., McPherson, T. S., Arneodo, E. M., et al. (2025). Expectation-driven sensory adaptations support enhanced acuity during categorical perception. _Nature Neuroscience_, 28(4), 861-872.
-43. Scholte, H. S., & de Haan, E. H. F. (2025). Beyond binding: from modular to natural vision. _Trends in Cognitive Sciences_, 29(6), 505-515.
-44. Searle, J. R. (2013). Can information theory explain consciousness? _The New York Review of Books_, 60(10), 52-55.
-45. Seth, A. K. (2013). Interoceptive inference, emotion, and the embodied self. _Trends in Cognitive Sciences_, _17_(11), 565-573.
-46. Sterzer, P., Voss, M., Schlagenhauf, F., & Heinz, A. (2018). Decision-making in schizophrenia: A predictive-coding perspective. _Neuroimage_, _190_, 133-143.
-47. Stikvoort, W., Pérez-Ordoyo, E., Mindlin, I., Escrichs, A., Sitt, J. D., Kringelbach, M. L., Deco, G., & Sanz Perl, Y. (2025). Nonequilibrium brain dynamics elicited as the origin of perturbative complexity. _PLoS Computational Biology_, 21(6), e1013150.
-48. Toker, D., & Sommer, F. T. (2019). Information integration in large brain networks. _PLoS Computational Biology_, _15_(2), e1006807.
-49. Tononi, G. (2004). An information integration theory of consciousness. _BMC Neuroscience_, _5_(1), 42.
-50. Tononi, G. (2012). Integrated information theory of consciousness: An updated account. _Archives italiennes de biologie_, _150_(4), 293-329.
-51. Tononi, G., Albantakis, L., et al. (2025). Consciousness or pseudo-consciousness? A clash of two paradigms. _Nature Neuroscience_, 28(4), 694-702.
-52. Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information theory: From consciousness to its physical substrate. _Nature Reviews Neuroscience_, 17(7), 450-461.
-53. Vinck, M., Uran, C., Dowdall, J. R., et al. (2025). Large-scale interactions in predictive processing: oscillatory versus transient dynamics. _Trends in Cognitive Sciences_, 29(2), 133-148.
-54. Williams, P. L., & Beer, R. D. (2010). Nonnegative decomposition of multivariate information. _arXiv preprint arXiv:1004.2515_.
-55. Xaplanteris, P., Fournier, S., Pijls, N. H. J., Fearon, W. F., Barbato, E., Tonino, P. A. L., ... & De Bruyne, B. (2018). Five-Year Outcomes with PCI Guided by Fractional Flow Reserve. _New England Journal of Medicine_, _379_(3), 250-259.
+22. Hancock, F., Rosas, F. E., Luppi, A. I., Zhang, M., Mediano, P. A. M., Cabral, J., Deco, G., Kringelbach, M. L., Breakspear, M., Kelso, J. A. S., & Turkheimer, F. E. (2025). Metastability demystified - the foundational past, the pragmatic present and the promising future. _Nature reviews. Neuroscience_.
+23. Hinton, G. (2022). The forward-forward algorithm: A new way to train neural networks. _arXiv preprint arXiv:2212.13345_.
+24. Klincewicz, M., Cheng, T., Schmitz, M., et al. (2025). What makes a theory of consciousness unscientific? _Nature Neuroscience_, 28(4), 689-693.
+25. Liu, J. & Bartolomeo, P. (2025). Aphantasia as a functional disconnection. _Trends in Cognitive Sciences_.
+26. Lotter, W., Kreiman, G., & Cox, D. (2017). Deep predictive coding networks for video prediction and unsupervised learning. _arXiv preprint arXiv:1605.08104_.
+27. Lotter, W., Kreiman, G., & Cox, D. (2020). A neural network trained for prediction mimics diverse features of biological neurons and perception. _Nature Machine Intelligence_, 2(4), 210-219.
+28. Lyons, S. H., & Gottfried, J. A. (2025). Predictive coding in the human olfactory system. _Trends in Cognitive Sciences_.
+29. Mørch, H. H. (2019). Is consciousness intrinsic?: A problem for the integrated information theory. _Journal of Consciousness Studies_, 26(1-2), 133-162.
+30. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: Integrated information theory 3.0. _PLoS Computational Biology_, 10(5), e1003588.
+31. Paquola, C., Garber, M., Frässle, S., et al. (2025). The architecture of the human default mode network explored through cytoarchitecture, wiring and signal flow. _Nature Neuroscience_, 28(3), 654-664.
+32. Park, H., Keri, H. V. S., Yoo, C., Bi, C., & Pluta, S. R. (2025). Bilateral integration in somatosensory cortex is controlled by behavioral relevance. _Nature Neuroscience_, 28(4), 861-872.
+33. Powers, W. T. (1973). Behavior: The control of perception. _Chicago: Aldine publishing co._
+34. Powers, W. T. (2008). Living control systems III: The fact of control. _Benchmark Publications Inc._
+35. Qian, M., Wang, J., Gao, Y., et al. (2025). Multiple loci for foveolar vision in macaque monkey visual cortex. _Nature Neuroscience_, 28(1), 137-149.
+36. Radomski, M., & Dołęga, K. (2024). Forced Friends: Why the Free Energy Principle Is Not the New Hamilton's Principle. _Entropy_, 26(9), 797.
+37. Rao, R. P. N., & Ballard, D. (1999). Predictive coding in the visual cortex: A functional interpretation of some extra-classical receptive-field effects. _Nature Neuroscience_, 2(1), 79-87.
+38. Reinders, A. A. T. S., Marquand, A. F., Schlumpf, Y. R., Chalavi, S., Vissia, E. M., Nijenhuis, E. R. S., Dazzan, P., Jäncke, L., & Veltman, D. J. (2019). Aiding the diagnosis of dissociative identity disorder: Pattern recognition study of brain biomarkers. _British Journal of Psychiatry_, 215(3), 536–544.
+39. Rolls, E. T. (2024). The memory systems of the human brain and generative artificial intelligence. _Heliyon_, 10(11), e31965.
+40. Luppi, A. I., Rosas, F. E., Mediano, P. A. M., Menon, D. K., & Stamatakis, E. A. (2024). Information decomposition and the informational architecture of the brain. _Trends in Cognitive Sciences_, 0. <https://doi.org/10.1016/j.tics.2023.11.005>
+41. Luppi, A. I., Golkowski, D., Ranft, A., Ilg, R., Jordan, D., Bzdok, D., Owen, A. M., Naci, L., Stamatakis, E. A., Amico, E., & Misic, B. (2025). General anaesthesia decreases the uniqueness of brain functional connectivity across individuals and species. _Nature human behaviour_.
+42. Rosanova, M., Fecchio, M., Casarotto, S., Sarasso, S., Casali, A. G., & Massimini, M. (2018). Sleep-like cortical OFF-periods in patients with consciousness disorders. _Nature communications_, _9_(1), 332.
+43. Safron, A. (2022). Integrated world modeling theory expanded: Implications for the future of consciousness. _Frontiers in Computational Neuroscience_, 16, 642397.
+44. Sainburg, T., McPherson, T. S., Arneodo, E. M., et al. (2025). Expectation-driven sensory adaptations support enhanced acuity during categorical perception. _Nature Neuroscience_, 28(4), 861-872.
+45. Scholte, H. S., & de Haan, E. H. F. (2025). Beyond binding: from modular to natural vision. _Trends in Cognitive Sciences_, 29(6), 505-515.
+46. Searle, J. R. (2013). Can information theory explain consciousness? _The New York Review of Books_, 60(10), 52-55.
+47. Seth, A. K. (2013). Interoceptive inference, emotion, and the embodied self. _Trends in Cognitive Sciences_, _17_(11), 565-573.
+48. Singleton, S. P., Timmermann, C., Luppi, A. I., Eckernäs, E., Roseman, L., Carhart-Harris, R. L., & Kuceyeski, A. (2025). Network control energy reductions under DMT relate to serotonin receptors, signal diversity, and subjective experience. _Communications biology_.
+49. Sterzer, P., Voss, M., Schlagenhauf, F., & Heinz, A. (2018). Decision-making in schizophrenia: A predictive-coding perspective. _Neuroimage_, _190_, 133-143.
+50. Stikvoort, W., Pérez-Ordoyo, E., Mindlin, I., Escrichs, A., Sitt, J. D., Kringelbach, M. L., Deco, G., & Sanz Perl, Y. (2025). Nonequilibrium brain dynamics elicited as the origin of perturbative complexity. _PLoS Computational Biology_, 21(6), e1013150.
+51. Toker, D., & Sommer, F. T. (2019). Information integration in large brain networks. _PLoS Computational Biology_, _15_(2), e1006807.
+52. Tononi, G. (2004). An information integration theory of consciousness. _BMC Neuroscience_, _5_(1), 42.
+53. Tononi, G. (2012). Integrated information theory of consciousness: An updated account. _Archives italiennes de biologie_, _150_(4), 293-329.
+54. Tononi, G., Albantakis, L., et al. (2025). Consciousness or pseudo-consciousness? A clash of two paradigms. _Nature Neuroscience_, 28(4), 694-702.
+55. Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information theory: From consciousness to its physical substrate. _Nature Reviews Neuroscience_, 17(7), 450-461.
+56. Vinck, M., Uran, C., Dowdall, J. R., et al. (2025). Large-scale interactions in predictive processing: oscillatory versus transient dynamics. _Trends in Cognitive Sciences_, 29(2), 133-148.
+57. Williams, P. L., & Beer, R. D. (2010). Nonnegative decomposition of multivariate information. _arXiv preprint arXiv:1004.2515_.
+58. Xaplanteris, P., Fournier, S., Pijls, N. H. J., Fearon, W. F., Barbato, E., Tonino, P. A. L., ... & De Bruyne, B. (2018). Five-Year Outcomes with PCI Guided by Fractional Flow Reserve. _New England Journal of Medicine_, _379_(3), 250-259.
 
 ### Meta Acknowledgements
 

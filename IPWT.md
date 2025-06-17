@@ -6,7 +6,7 @@
 <p><strong>Rui Lin<sup>1,*</sup>, Ming Su<sup>1</sup>, Elias Vance<sup>2</sup></strong></p>
 <p><sup>1</sup> Department of Computational Neuroscience, ETH Zurich, Switzerland</p>
 <p><sup>2</sup> Independent Researcher</p>
-<p><sup>*</sup> Corresponding author: <a href="mailto:r.lin@ac.ethz.ch">r.lin@ac.ethz.ch</a></p>
+<p><sup>*</sup> Corresponding author: <a href="mailto:Lin.Rui.ipwt@proton.me">r.lin@ac.ethz.ch</a></p>
 <p><small><em>Paper version: 2035.08.15</em></small></p>
 </div>
 
@@ -152,14 +152,20 @@ Luppi 等人 (2024) 的研究也为工作空间内部的功能异质性提供了
 
 #### 2.4. IIT 现象学公理的重构：从物理因果到逻辑协同
 
-IPWT 对 IIT 的核心贡献在于对其现象学公理进行了根本性的**功能性重构**。这一重构的核心在于引入了“**信息整合的逻辑不可约性**”概念，并将其与信息论中的**协同信息（Synergy）**联系起来，以此取代 IIT 对“物理因果不可分性”的强调。
+IPWT 对 IIT 的核心贡献在于对其现象学公理进行了根本性的**功能性重构**。我们保留了 IIT 关于“整合”是意识核心特征的深刻洞察，但将其根源从物理基质的因果结构，转向了信息处理的功能层面。这一重构的核心在于引入了“**信息整合的逻辑不可约性**”这一核心概念。
 
-- **“信息整合的逻辑不可约性”取代“物理因果不可分性”**：原始 IIT 理论的核心假设是意识系统必须具有“物理因果不可分性”。我们提出，意识体验的整合性根源并非来自物理基质的属性，而是来自在 WSI 中被处理的信息单元之间所形成的**逻辑上的不可约性（logical irreducibility）**。整合后的整体表征所具有的语义意义和因果影响力，无法通过将其分解回原始孤立的信息单元来完全解释。这种逻辑不可约性正是信息论中**协同信息（Synergistic Information）**在认知系统中的功能性体现（Williams & Beer, 2010）。通过将整合性的核心从“物理不可分性”转向“逻辑不可约性”，IPWT 实现了**载体独立性**，并为**计算可操作性**和**与动态过程的兼容性**提供了理论基础。
+- **“信息整合的逻辑不可约性”：从 PID 到 ΦID**：原始 IIT 理论的核心假设是意识系统必须具有“物理因果不可分性”。我们提出，意识体验的整合性根源并非来自物理基质的属性，而是来自在 WSI 中被处理的信息单元之间所形成的**逻辑上的不可约性（logical irreducibility）**。整合后的整体表征所具有的语义意义和因果影响力，无法通过将其分解回原始孤立的信息单元来完全解释。
+
+  这一“逻辑不可约性”的概念，在信息论中找到了精确的数学对应物。**部分信息分解（Partial Information Decomposition, PID）**框架（Williams & Beer, 2010）首次将多个信源对一个目标的信息贡献，分解为冗余、唯一和**协同信息（Synergistic Information）**等原子部分。其中，协同信息精确地量化了“整体大于部分之和”的涌现信息，成为 IPWT 定义信息整合的理论基石。
+
+  在此基础上，理论前沿进一步发展出**整合信息分解（Integrated Information Decomposition, ΦID）**框架（Mediano et al., 2021）。ΦID 将 PID 从“多源对单目标”的静态分析，扩展到了“多源对多目标”的动态分析，能够更精细地刻画时序数据中的完整信息流，例如区分“信息的真实转移”与“协同涌现产生的信息”。然而，这种理论上的精细度带来了更高的计算复杂性，其信息原子的数量会随着系统变量的增加而组合爆炸，使其在应用于全脑等大规模系统时面临严峻的计算可行性挑战。
+
+  因此，我们的策略是：在理论上，我们将“信息整合的逻辑不可约性”与 PID/ΦID 框架中的核心概念——**协同信息**——紧密挂钩；在实践上，我们承认直接计算高维协同信息的困难，转而开发功能上等价、计算上可行的代理指标。通过将整合性的核心从“物理不可分性”转向“逻辑不可约性”，IPWT 实现了**载体独立性**，并为**计算可操作性**和**与动态过程的兼容性**提供了理论基础。
 
 - **对 IIT 五个现象学公理的功能性重构与 WSI 诠释**：
   1. **存在 (Existence)**：在 IPWT 框架下，当一个信息单元在 WSI 中被激活并产生持续的**功能性影响**时，它就“存在”于该认知状态中。
   2. **信息 (Information)**：每一个在 WSI 中“存在”的信息单元都携带独特的、可区分的**内容或语义**，通过指定一种特定的可能性来为系统减少不确定性。
-  3. **整合 (Integration)**：多个独立的信息单元在 WSI 中被汇聚、关联，形成一个**逻辑上不可约的、功能上统一的、协同的（synergistic）认知状态**。这个整合后的整体所具有的意义、预测能力和因果效应，超越了其组成部分的简单总和。
+  3. **整合 (Integration)**：多个独立的信息单元在 WSI 中被汇聚、关联，形成一个**逻辑上不可约的、功能上统一的、协同的（synergistic）认知状态**。这个整合后的整体所具有的意义、预测能力和因果效应，超越了其组成部分的简单总和 (Hancock et al., 2025)。
   4. **排他 (Exclusion)**：由于 WSI 的有限容量以及竞争动态，在任何给定时刻，只有一个或少数几个最具显著性、整合程度最高的认知状态能够主导 WSI，成为当前意识体验的核心内容。
   5. **因果 (Causation)**：在 WSI 中被整合并达到主导地位的信息状态，具有显著的**因果能力（causal power）**，能够影响系统内部其他认知模块的活动，并最终指导有机体的外显行为和决策。
 
@@ -250,7 +256,7 @@ IPWT 作为一个仍在发展的理论框架，对其可证伪性的探讨强调
 
 ### 5. 特殊意识状态的 IPWT 诠释：统一框架下的多样性解析
 
-IPWT 的理论力量不仅体现在其对正常清醒意识的机制性解释上，更在于其能够为多种多样的特殊意识状态——包括那些因脑损伤、精神疾病、生理改变或药物影响而产生的异常体验——提供一个统一的、基于计算原理的理解框架。本章将运用 IPWT 的核心概念，如预测编码（PCT）的异常、工作空间实例（WSI）的功能障碍、信息整合效率的改变以及神经门控机制的失调等，来阐明这些状态的神经计算基础。
+IPWT 的理论力量不仅体现在其对正常清醒意识的机制性解释上，更在于其能够为多种多样的特殊意识状态——包括那些因脑损伤、精神疾病、生理改变或药物影响而产生的异常体验——提供一个统一的、基于计算原理的理解框架。本章将运用 IPWT 的核心概念，如预测编码（PCT）的异常、工作空间实例（WSI）的功能障碍、信息整合效率的改变以及神经门控机制的失调等，来阐明这些状态的神经计算基础。例如，全身麻醉状态下的意识丧失，可以通过 IPWT 框架下工作空间信息整合的改变来解释 (Luppi et al., 2025)。
 
 #### 5.1. 盲视（Blindsight）：DWSI 整合失败下的局部预测编码
 
@@ -265,7 +271,7 @@ IPWT 的理论力量不仅体现在其对正常清醒意识的机制性解释上
 
 由 LSD、裸盖菇素等迷幻药物诱导的意识状态，以感知扭曲、思维模式改变、自我感模糊为特征。我们从预测编码和工作空间动力学的角度提供了如下解释：
 
-- **预测误差信号的异常放大与信息流的“去门控”**：我们认为，迷幻药物（尤其是作用于血清素 5-HT2A 受体的药物）可能通过改变神经调质平衡，导致系统对感官输入产生**过度敏感或异常增强的预测误差信号**（Carhart-Harris, 2019）。这些被放大的误差信号涌入 WSI，压倒了正常的自上而下预测，从而产生感知扭曲和幻觉。同时，药物效应可能削弱了 WSI 的**神经门控机制**，使得原本被抑制的信息流得以自由进入 WSI 并被异常整合。
+- **预测误差信号的异常放大与信息流的“去门控”**：我们认为，迷幻药物（尤其是作用于血清素 5-HT2A 受体的药物）可能通过改变神经调质平衡，导致系统对感官输入产生**过度敏感或异常增强的预测误差信号**（Carhart-Harris, 2019）。这些被放大的误差信号涌入 WSI，压倒了正常的自上而下预测，从而产生感知扭曲和幻觉 (Singleton et al., 2025)。同时，药物效应可能削弱了 WSI 的**神经门控机制**，使得原本被抑制的信息流得以自由进入 WSI 并被异常整合。
 - **WSI 边界的模糊与临时性、高整合度 WSI 的形成**：在信息流去门控和预测层级扁平化的影响下，不同 WSI 之间或 WSI 与专业化模块之间的边界可能变得模糊甚至消融，促进了联觉等跨模态整合现象的发生。系统甚至可能围绕这些异常信息流，形成一些**临时的、具有极高内部整合度但内容非典型的工作空间实例**，这些特殊的 WSI 可能负责产生“高峰体验”。
 - **自我模型的重塑与“自我消融”**：负责表征和维持自我模型的 WSI，由于其接收到的关于身体、情感和记忆的预测误差信号发生剧变，可能导致其原有的自我表征发生解构和重塑，从而解释了迷幻体验中常见的自我感模糊、与环境融合感、乃至“自我消融”（ego dissolution）等深刻的主观变化。
 
@@ -395,40 +401,43 @@ IPWT 的提出，旨在通过提供一个更具整合性、计算性和可验证
 19. Garrido, M. I., Kilner, J. M., Kiebel, S. J., & Friston, K. J. (2009). The mismatch negativity: A review of underlying mechanisms. _Clinical Neurophysiology_, 120(3), 453-463.
 20. Griffith, V. (2014). _Quantifying synergistic information_ (Doctoral dissertation, California Institute of Technology).
 21. Harris, H. W. (2025). Qualia as query act, the phenomenology of predictive error coding. _Frontiers in Psychology_, 16, 1531269.
-22. Hinton, G. (2022). The forward-forward algorithm: A new way to train neural networks. _arXiv preprint arXiv:2212.13345_.
-23. Klincewicz, M., Cheng, T., Schmitz, M., et al. (2025). What makes a theory of consciousness unscientific? _Nature Neuroscience_, 28(4), 689-693.
-24. Liu, J. & Bartolomeo, P. (2025). Aphantasia as a functional disconnection. _Trends in Cognitive Sciences_.
-25. Lotter, W., Kreiman, G., & Cox, D. (2017). Deep predictive coding networks for video prediction and unsupervised learning. _arXiv preprint arXiv:1605.08104_.
-26. Lotter, W., Kreiman, G., & Cox, D. (2020). A neural network trained for prediction mimics diverse features of biological neurons and perception. _Nature Machine Intelligence_, 2(4), 210-219.
-27. Lyons, S. H., & Gottfried, J. A. (2025). Predictive coding in the human olfactory system. _Trends in Cognitive Sciences_.
-28. Mørch, H. H. (2019). Is consciousness intrinsic?: A problem for the integrated information theory. _Journal of Consciousness Studies_, 26(1-2), 133-162.
-29. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: Integrated information theory 3.0. _PLoS Computational Biology_, 10(5), e1003588.
-30. Paquola, C., Garber, M., Frässle, S., et al. (2025). The architecture of the human default mode network explored through cytoarchitecture, wiring and signal flow. _Nature Neuroscience_, 28(3), 654-664.
-31. Park, H., Keri, H. V. S., Yoo, C., Bi, C., & Pluta, S. R. (2025). Bilateral integration in somatosensory cortex is controlled by behavioral relevance. _Nature Neuroscience_, 28(4), 861-872.
-32. Powers, W. T. (1973). Behavior: The control of perception. _Chicago: Aldine publishing co._
-33. Powers, W. T. (2008). Living control systems III: The fact of control. _Benchmark Publications Inc._
-34. Qian, M., Wang, J., Gao, Y., et al. (2025). Multiple loci for foveolar vision in macaque monkey visual cortex. _Nature Neuroscience_, 28(1), 137-149.
-35. Radomski, M., & Dołęga, K. (2024). Forced Friends: Why the Free Energy Principle Is Not the New Hamilton's Principle. _Entropy_, 26(9), 797.
-36. Rao, R. P. N., & Ballard, D. (1999). Predictive coding in the visual cortex: A functional interpretation of some extra-classical receptive-field effects. _Nature Neuroscience_, 2(1), 79-87.
-37. Reinders, A. A. T. S., Marquand, A. F., Schlumpf, Y. R., Chalavi, S., Vissia, E. M., Nijenhuis, E. R. S., Dazzan, P., Jäncke, L., & Veltman, D. J. (2019). Aiding the diagnosis of dissociative identity disorder: Pattern recognition study of brain biomarkers. _British Journal of Psychiatry_, 215(3), 536–544.
-38. Rolls, E. T. (2024). The memory systems of the human brain and generative artificial intelligence. _Heliyon_, 10(11), e31965.
-39. Luppi, A. I., Rosas, F. E., Mediano, P. A. M., Menon, D. K., & Stamatakis, E. A. (2024). Information decomposition and the informational architecture of the brain. _Trends in Cognitive Sciences_, 0. <https://doi.org/10.1016/j.tics.2023.11.005>
-40. Rosanova, M., Fecchio, M., Casarotto, S., Sarasso, S., Casali, A. G., & Massimini, M. (2018). Sleep-like cortical OFF-periods in patients with consciousness disorders. _Nature communications_, _9_(1), 332.
-41. Safron, A. (2022). Integrated world modeling theory expanded: Implications for the future of consciousness. _Frontiers in Computational Neuroscience_, 16, 642397.
-42. Sainburg, T., McPherson, T. S., Arneodo, E. M., et al. (2025). Expectation-driven sensory adaptations support enhanced acuity during categorical perception. _Nature Neuroscience_, 28(4), 861-872.
-43. Scholte, H. S., & de Haan, E. H. F. (2025). Beyond binding: from modular to natural vision. _Trends in Cognitive Sciences_, 29(6), 505-515.
-44. Searle, J. R. (2013). Can information theory explain consciousness? _The New York Review of Books_, 60(10), 52-55.
-45. Seth, A. K. (2013). Interoceptive inference, emotion, and the embodied self. _Trends in Cognitive Sciences_, _17_(11), 565-573.
-46. Sterzer, P., Voss, M., Schlagenhauf, F., & Heinz, A. (2018). Decision-making in schizophrenia: A predictive-coding perspective. _Neuroimage_, _190_, 133-143.
-47. Stikvoort, W., Pérez-Ordoyo, E., Mindlin, I., Escrichs, A., Sitt, J. D., Kringelbach, M. L., Deco, G., & Sanz Perl, Y. (2025). Nonequilibrium brain dynamics elicited as the origin of perturbative complexity. _PLoS Computational Biology_, 21(6), e1013150.
-48. Toker, D., & Sommer, F. T. (2019). Information integration in large brain networks. _PLoS Computational Biology_, _15_(2), e1006807.
-49. Tononi, G. (2004). An information integration theory of consciousness. _BMC Neuroscience_, _5_(1), 42.
-50. Tononi, G. (2012). Integrated information theory of consciousness: An updated account. _Archives italiennes de biologie_, _150_(4), 293-329.
-51. Tononi, G., Albantakis, L., et al. (2025). Consciousness or pseudo-consciousness? A clash of two paradigms. _Nature Neuroscience_, 28(4), 694-702.
-52. Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information theory: From consciousness to its physical substrate. _Nature Reviews Neuroscience_, 17(7), 450-461.
-53. Vinck, M., Uran, C., Dowdall, J. R., et al. (2025). Large-scale interactions in predictive processing: oscillatory versus transient dynamics. _Trends in Cognitive Sciences_, 29(2), 133-148.
-54. Williams, P. L., & Beer, R. D. (2010). Nonnegative decomposition of multivariate information. _arXiv preprint arXiv:1004.2515_.
-55. Xaplanteris, P., Fournier, S., Pijls, N. H. J., Fearon, W. F., Barbato, E., Tonino, P. A. L., ... & De Bruyne, B. (2018). Five-Year Outcomes with PCI Guided by Fractional Flow Reserve. _New England Journal of Medicine_, _379_(3), 250-259.
+22. Hancock, F., Rosas, F. E., Luppi, A. I., Zhang, M., Mediano, P. A. M., Cabral, J., Deco, G., Kringelbach, M. L., Breakspear, M., Kelso, J. A. S., & Turkheimer, F. E. (2025). Metastability demystified - the foundational past, the pragmatic present and the promising future. _Nature reviews. Neuroscience_.
+23. Hinton, G. (2022). The forward-forward algorithm: A new way to train neural networks. _arXiv preprint arXiv:2212.13345_.
+24. Klincewicz, M., Cheng, T., Schmitz, M., et al. (2025). What makes a theory of consciousness unscientific? _Nature Neuroscience_, 28(4), 689-693.
+25. Liu, J. & Bartolomeo, P. (2025). Aphantasia as a functional disconnection. _Trends in Cognitive Sciences_.
+26. Lotter, W., Kreiman, G., & Cox, D. (2017). Deep predictive coding networks for video prediction and unsupervised learning. _arXiv preprint arXiv:1605.08104_.
+27. Lotter, W., Kreiman, G., & Cox, D. (2020). A neural network trained for prediction mimics diverse features of biological neurons and perception. _Nature Machine Intelligence_, 2(4), 210-219.
+28. Lyons, S. H., & Gottfried, J. A. (2025). Predictive coding in the human olfactory system. _Trends in Cognitive Sciences_.
+29. Mørch, H. H. (2019). Is consciousness intrinsic?: A problem for the integrated information theory. _Journal of Consciousness Studies_, 26(1-2), 133-162.
+30. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: Integrated information theory 3.0. _PLoS Computational Biology_, 10(5), e1003588.
+31. Paquola, C., Garber, M., Frässle, S., et al. (2025). The architecture of the human default mode network explored through cytoarchitecture, wiring and signal flow. _Nature Neuroscience_, 28(3), 654-664.
+32. Park, H., Keri, H. V. S., Yoo, C., Bi, C., & Pluta, S. R. (2025). Bilateral integration in somatosensory cortex is controlled by behavioral relevance. _Nature Neuroscience_, 28(4), 861-872.
+33. Powers, W. T. (1973). Behavior: The control of perception. _Chicago: Aldine publishing co._
+34. Powers, W. T. (2008). Living control systems III: The fact of control. _Benchmark Publications Inc._
+35. Qian, M., Wang, J., Gao, Y., et al. (2025). Multiple loci for foveolar vision in macaque monkey visual cortex. _Nature Neuroscience_, 28(1), 137-149.
+36. Radomski, M., & Dołęga, K. (2024). Forced Friends: Why the Free Energy Principle Is Not the New Hamilton's Principle. _Entropy_, 26(9), 797.
+37. Rao, R. P. N., & Ballard, D. (1999). Predictive coding in the visual cortex: A functional interpretation of some extra-classical receptive-field effects. _Nature Neuroscience_, 2(1), 79-87.
+38. Reinders, A. A. T. S., Marquand, A. F., Schlumpf, Y. R., Chalavi, S., Vissia, E. M., Nijenhuis, E. R. S., Dazzan, P., Jäncke, L., & Veltman, D. J. (2019). Aiding the diagnosis of dissociative identity disorder: Pattern recognition study of brain biomarkers. _British Journal of Psychiatry_, 215(3), 536–544.
+39. Rolls, E. T. (2024). The memory systems of the human brain and generative artificial intelligence. _Heliyon_, 10(11), e31965.
+40. Luppi, A. I., Rosas, F. E., Mediano, P. A. M., Menon, D. K., & Stamatakis, E. A. (2024). Information decomposition and the informational architecture of the brain. _Trends in Cognitive Sciences_, 0. <https://doi.org/10.1016/j.tics.2023.11.005>
+41. Luppi, A. I., Golkowski, D., Ranft, A., Ilg, R., Jordan, D., Bzdok, D., Owen, A. M., Naci, L., Stamatakis, E. A., Amico, E., & Misic, B. (2025). General anaesthesia decreases the uniqueness of brain functional connectivity across individuals and species. _Nature human behaviour_.
+42. Rosanova, M., Fecchio, M., Casarotto, S., Sarasso, S., Casali, A. G., & Massimini, M. (2018). Sleep-like cortical OFF-periods in patients with consciousness disorders. _Nature communications_, _9_(1), 332.
+43. Safron, A. (2022). Integrated world modeling theory expanded: Implications for the future of consciousness. _Frontiers in Computational Neuroscience_, 16, 642397.
+44. Sainburg, T., McPherson, T. S., Arneodo, E. M., et al. (2025). Expectation-driven sensory adaptations support enhanced acuity during categorical perception. _Nature Neuroscience_, 28(4), 861-872.
+45. Scholte, H. S., & de Haan, E. H. F. (2025). Beyond binding: from modular to natural vision. _Trends in Cognitive Sciences_, 29(6), 505-515.
+46. Searle, J. R. (2013). Can information theory explain consciousness? _The New York Review of Books_, 60(10), 52-55.
+47. Seth, A. K. (2013). Interoceptive inference, emotion, and the embodied self. _Trends in Cognitive Sciences_, _17_(11), 565-573.
+48. Singleton, S. P., Timmermann, C., Luppi, A. I., Eckernäs, E., Roseman, L., Carhart-Harris, R. L., & Kuceyeski, A. (2025). Network control energy reductions under DMT relate to serotonin receptors, signal diversity, and subjective experience. _Communications biology_.
+49. Sterzer, P., Voss, M., Schlagenhauf, F., & Heinz, A. (2018). Decision-making in schizophrenia: A predictive-coding perspective. _Neuroimage_, _190_, 133-143.
+50. Stikvoort, W., Pérez-Ordoyo, E., Mindlin, I., Escrichs, A., Sitt, J. D., Kringelbach, M. L., Deco, G., & Sanz Perl, Y. (2025). Nonequilibrium brain dynamics elicited as the origin of perturbative complexity. _PLoS Computational Biology_, 21(6), e1013150.
+51. Toker, D., & Sommer, F. T. (2019). Information integration in large brain networks. _PLoS Computational Biology_, _15_(2), e1006807.
+52. Tononi, G. (2004). An information integration theory of consciousness. _BMC Neuroscience_, _5_(1), 42.
+53. Tononi, G. (2012). Integrated information theory of consciousness: An updated account. _Archives italiennes de biologie_, _150_(4), 293-329.
+54. Tononi, G., Albantakis, L., et al. (2025). Consciousness or pseudo-consciousness? A clash of two paradigms. _Nature Neuroscience_, 28(4), 694-702.
+55. Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information theory: From consciousness to its physical substrate. _Nature Reviews Neuroscience_, 17(7), 450-461.
+56. Vinck, M., Uran, C., Dowdall, J. R., et al. (2025). Large-scale interactions in predictive processing: oscillatory versus transient dynamics. _Trends in Cognitive Sciences_, 29(2), 133-148.
+57. Williams, P. L., & Beer, R. D. (2010). Nonnegative decomposition of multivariate information. _arXiv preprint arXiv:1004.2515_.
+58. Xaplanteris, P., Fournier, S., Pijls, N. H. J., Fearon, W. F., Barbato, E., Tonino, P. A. L., ... & De Bruyne, B. (2018). Five-Year Outcomes with PCI Guided by Fractional Flow Reserve. _New England Journal of Medicine_, _379_(3), 250-259.
 
 ### 元致谢
 
