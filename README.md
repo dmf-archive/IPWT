@@ -2,7 +2,7 @@
 
 **Academic Preprint：**[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15676304.svg)](https://doi.org/10.5281/zenodo.15676304)
 
-**In-World Manuscript：** [English](IPWT_en.md) | [简体中文](IPWT.md)
+**In-World Manuscript：** [English](src/manuscript_en.md) | [简体中文](src/manuscript.md)
 
 ## What is IPWT?
 
@@ -15,6 +15,7 @@
 - **June 8, 2025**: Manuscript moved to this standalone repository; OpenPoPI development initiated.
 - **June 15, 2025**: Refined language and enhanced Φ integration.
 - **June 18, 2025**: IPWT has completed its "PoPI", aligning with the solid experimental evidence from [Dr. Luppi](https://github.com/andrealuppi)'s work "[A synergistic workspace for human consciousness revealed by Integrated Information Decomposition.](https://doi.org/10.7554/eLife.88173)".
+- **June 22, 2025**: Manuscript underwent a thorough rewrite and workflow changes.
 
 For technical applications and sociological unit tests of this research, please refer to [Chain://](https://github.com/dmf-archive/dmf-archive.github.io/).
 
