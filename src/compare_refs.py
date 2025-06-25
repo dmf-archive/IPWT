@@ -71,6 +71,6 @@ def compare_references(manuscript_paths, bib_path):
 
 
 if __name__ == '__main__':
-    manuscript_files = ['src/manuscript.md', 'src/manuscript_en.md']
-    bib_file = 'src/references.bib'
+    manuscript_files = ['src-typ/manuscript_cn.typ', 'src-typ/manuscript_en.typ']
+    bib_file = 'src-typ/references.bib'
     compare_references(manuscript_files, bib_file)
