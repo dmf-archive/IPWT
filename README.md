@@ -6,7 +6,7 @@
 
 ## What is IPWT?
 
-> TL;DR: Consciousness is the synergistic information that emerges within a workspace instance, driven by predictive coding and free energy principle.
+> **TL;DR:** Consciousness is the synergistic information generated within a workspace instance for minimizing predictive error.
 
 ## Project Timeline
 
