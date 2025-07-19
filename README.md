@@ -2,7 +2,7 @@
 
 **Academic Preprint：**[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15676304.svg)](https://doi.org/10.5281/zenodo.15676304)
 
-[中文PDF](./blob/master/src-typ/manuscript_cn.pdf)
+[中文PDF](./src-typ/manuscript_cn.pdf)
 
 ## What is IPWT?
 
