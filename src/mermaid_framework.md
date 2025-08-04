@@ -7,15 +7,15 @@ graph TD
         IM[内部模型]
         PS[预测信号]
 
-        subgraph WSI[工作空间实例]
+        subgraph WSI["嵌套工作空间实例 (WSI)<br/>(马尔可夫毯)"]
             style WSI stroke-dasharray: 5 5
-            NG["神经门控<br/>(丘脑)"]
+            NG["s_wsi (感觉状态)<br/>神经门控"]
             IR[信息路由]
             MR["记忆重建<br/>(海马体)"]
             AXI[IPWT公理]
-            INT["Ω_t<br/>（DMN 网关）"]
-            QUA["Qualia"]
-            BCST["WSI广播<br/>（ECN 广播者）"]
+            INT["μ_wsi (结构)<br/>Ω_t / DMN 网关"]
+            QUA["μ_wsi (现象)<br/>Qualia"]
+            BCST["a_wsi (主动状态)<br/>WSI 广播 / ECN"]
         end
     end
 
@@ -35,7 +35,7 @@ graph TD
 
     IR --> MR
     MR -->|预测性检索| IR
-    BCST -->|主动推断| IM
+    BCST -->|"主动推断<br/>(元推断)"| IM
     MR <-->|误差驱动更新| IM
 
     IIT[IIT现象学公理]:::iit

@@ -7,15 +7,15 @@ graph TD
         IM[Internal Model]
         PS[Prediction Signal]
 
-        subgraph WSI[Workspace Instance]
+        subgraph WSI["Nested Workspace Instance (WSI)<br/>(Markov Blanket)"]
             style WSI stroke-dasharray: 5 5
-            NG["Neural Gating<br/>(Thalamus)"]
+            NG["s_wsi (Sensory State)<br/>Neural Gating"]
             IR[Information Routing]
             MR["Memory Reconstruction<br/>(Hippocampus)"]
             AXI[IPWT Axioms]
-            INT["Ω_t<br/>(DMN Gateway)"]
-            QUA["Qualia"]
-            BCST["WSI Broadcast<br/>(ECN Broadcaster)"]
+            INT["μ_wsi (Structure)<br/>Ω_t / DMN Gateway"]
+            QUA["μ_wsi (Phenomenology)<br/>Qualia"]
+            BCST["a_wsi (Active State)<br/>WSI Broadcast / ECN"]
         end
     end
 
@@ -35,7 +35,7 @@ graph TD
 
     IR --> MR
     MR -->|Predictive Retrieval| IR
-    BCST -->|Active Inference| IM
+    BCST -->|"Active Inference<br/>(Meta-Inference)"| IM
     MR <-->|Error-Driven Update| IM
 
     IIT[IIT Phenomenological Axioms]:::iit
