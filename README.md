@@ -6,7 +6,7 @@
 
 ## What is IPWT?
 
-> **TL;DR:** Consciousness is the synergistic information generated within a workspace instance for minimizing predictive error.
+> **TL;DR:** Consciousness is a dynamic process that emerges in the workspace to minimize free energy, with maximizing synergistic information as the optimal computational strategy.
 
 ## Project Timeline
 
