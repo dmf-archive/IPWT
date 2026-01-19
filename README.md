@@ -12,10 +12,11 @@
 
 - **June 5, 2025**: IPWT proposed.
 - **June 7, 2025**: Formalization completed.
-- **June 8, 2025**: Manuscript moved to this standalone repository; OpenPoPI development initiated.
+- **June 8, 2025**: Manuscript moved to this standalone repository.
 - **June 18, 2025**: IPWT has completed its "PoPI", aligning with the solid experimental evidence from [Dr. Luppi](https://github.com/andrealuppi)'s work "[A synergistic workspace for human consciousness revealed by Integrated Information Decomposition.](https://doi.org/10.7554/eLife.88173)".
 - **June 25, 2025**: Manuscript underwent a thorough rewrite and workflow changes. Completed the two core computation packages: [ΩID](https://github.com/dmf-archive/OmegaID) and [ΣPI](https://github.com/dmf-archive/SigmaPI).
 - **August 4, 2025**: Friston's [*A beautiful loop*](https://doi.org/10.1016/j.neubiorev.2025.106296) confirmed our trajectory. So long, and thanks for all the fish.
+- **January 11, 2026**: [Urbina-Rodriguez et al.](https://arxiv.org/abs/2601.06851) demonstrated that LLMs spontaneously develop "Synergistic Cores" similar to the human brain, providing definitive evidence for the emergence of synergistic information processing as a fundamental property of intelligence.
 
 ## Acknowledgements
 
